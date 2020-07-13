@@ -1,0 +1,11 @@
+{
+  "name": "glori-react",
+  "alias": "glori-react.now.sh",
+  "version": 1,
+  "env": {
+    "MONGO_SRV": "mongodb+srv://gloriverse:haha112112@glorireact.3alms.mongodb.net/test?retryWrites=true&w=majority",
+    "JWT_SECRET": "gloriverse",
+    "CLOUDINARY_URL": "https://api.cloudinary.com/v1_1/djhhrurrb/image/upload",
+    "STRIPE_SECRET_KEY": "sk_test_IDGjhVNVJtfAqBNKCylndohk00zAzgk6Yp"
+  }
+}
