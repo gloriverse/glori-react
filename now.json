@@ -1,7 +1,7 @@
 {
   "name": "glori-react",
   "alias": "glori-react.now.sh",
-  "version": 1,
+  "version": 2,
   "env": {
     "MONGO_SRV": "mongodb+srv://gloriverse:haha112112@glorireact.3alms.mongodb.net/test?retryWrites=true&w=majority",
     "JWT_SECRET": "gloriverse",
